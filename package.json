@@ -1,0 +1,23 @@
+{
+  "name": "slack-standup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api/hello.ts",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peterjcole/slack-standup.git"
+  },
+  "author": "Peter Cole",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peterjcole/slack-standup/issues"
+  },
+  "homepage": "https://github.com/peterjcole/slack-standup#readme",
+  "devDependencies": {
+    "@vercel/node": "^1.12.1"
+  },
+  "dependencies": {
+    "@slack/web-api": "^6.3.0"
+  }
+}
